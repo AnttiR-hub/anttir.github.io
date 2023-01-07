@@ -21,6 +21,9 @@
   "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
+    "eslint": "^8.30.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.5.0",
     "parcel": "^2.0.1",
     "prettier": "^2.4.1"
   },
